@@ -1,9 +1,6 @@
-# 2 Men and a Dog — legal pages
+# Moved
 
-Privacy policy and account deletion pages for the **Fitness Coach** app, published with GitHub Pages:
+The Fit Daddy privacy policy and account deletion pages are now at
+https://2menandadog.gitlab.io/fitdaddy/
 
-- https://wibotwi.github.io/2menandadog-legal/privacy.html
-- https://wibotwi.github.io/2menandadog-legal/delete-account.html
-
-Generated — don't edit here. The source is `legal/*.json` in the app repo; rebuild with
-`node scripts/build-legal-site.mjs` and copy `legal-site/` here (see `docs/legal.md` there).
+This site only redirects there. Keep it online: older app versions still link here.
